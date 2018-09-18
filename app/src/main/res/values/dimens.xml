@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="dp300">267dp</dimen>
+    <dimen name="dp230">167dp</dimen>
+    <dimen name="dp45">30dp</dimen>
+</resources>

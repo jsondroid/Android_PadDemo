@@ -1,0 +1,10 @@
+<resources>
+    <!--手机使用-->
+    <dimen name="dp300">267dp</dimen>
+    <dimen name="dp230">167dp</dimen>
+    <dimen name="dp45">15dp</dimen>
+
+    <dimen name="dp100">67dp</dimen>
+    <dimen name="dp48">40dp</dimen>
+    <dimen name="dp20">13dp</dimen>
+</resources>

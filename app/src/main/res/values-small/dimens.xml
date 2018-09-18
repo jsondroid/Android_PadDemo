@@ -1,0 +1,11 @@
+<resources>
+    <!--小屏幕使用-->
+    <dimen name="dp300">200dp</dimen>
+    <dimen name="dp230">115dp</dimen>
+
+    <dimen name="dp45">8dp</dimen>
+
+    <dimen name="dp100">50dp</dimen>
+    <dimen name="dp48">24dp</dimen>
+    <dimen name="dp20">10dp</dimen>
+</resources>
